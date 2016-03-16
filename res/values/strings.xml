@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">GlideDemo</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="search">Search</string>
+    <string name="searching_for">Searching for \"%s\" on Flickr</string>
+    <string name="search_failed">Search for \"%s\" failed, check your network connection and try again</string>
+    <string name="small">Small</string>
+    <string name="medium">Medium</string>
+    <string name="list">List</string>
+    <string name="image_description">An image from the list of results for a search query</string>
+    <string name="fullscreen_description">Full screen view of an image</string>
+    <string name="image_content_description">Photo</string>
+    <string name="giphy_logo_description">An animated version of the Giphy company logo</string>
+    <string name="scaleType">Click to cycle scale type (current: %1$s)</string>
+    <string name="android_linen_content_description">An android playing with blue linen</string>
+
+</resources>
